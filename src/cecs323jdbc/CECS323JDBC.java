@@ -9,7 +9,7 @@ import java.util.*;
  */
 public class CECS323JDBC
 {
-//  Database credentials
+//  Database credentialsjkhgkj
     static String USER = "C";
     static String PASS = "C";
     static String DBNAME = "323";

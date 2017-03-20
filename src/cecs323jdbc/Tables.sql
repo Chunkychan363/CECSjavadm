@@ -1,4 +1,4 @@
-
+--faksjdhflkas
 CREATE TABLE WritingGroups(
     groupName   VARCHAR(50) NOT NULL,
     headWriter  VARCHAR(50) NOT NULL,
