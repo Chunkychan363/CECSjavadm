@@ -1,5 +1,5 @@
 
-package cecs323javaprj;
+package cecs323jdbc;
 import java.sql.*;
 import java.util.*;
 
